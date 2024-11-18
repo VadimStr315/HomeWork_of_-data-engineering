@@ -60,7 +60,7 @@ def task2():
         'max_num':max_num,
         'min_num':min_num}
     
-    save_file('Answers/task_2.txt',result_dict)
+    save_file('Answers/task2.txt',result_dict)
 
 
 if __name__ == '__main__':

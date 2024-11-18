@@ -59,7 +59,7 @@ def task3():
     data = str_to_int(data)
     data = sorted_data(data)
     result = get_sum(data)
-    save_file('Answers/task_3.txt',result)
+    save_file('Answers/task3.txt',result)
 
 
 if __name__ == "__main__":
