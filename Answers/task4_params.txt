@@ -1,0 +1,3 @@
+mean:506.06
+max_value:999
+min_value:2
