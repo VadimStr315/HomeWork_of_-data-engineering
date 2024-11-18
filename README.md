@@ -9,12 +9,12 @@ This repository contains results of my data engineering homework
 
 Либо же запустить каждое задание отдельно:
 
-    - ```first_task.py``` - первое задание
-    - ```second_task.py``` - второе задание
-    - ```third_task.py``` - третье задание
-    - ```fourth_task.py``` - четвертое задание
-    - ```fifth_task.py``` - пятое задание
-    - ```sixth_task.py``` - шестое задание
+- ```first_task.py``` - первое задание
+- ```second_task.py``` - второе задание
+- ```third_task.py``` - третье задание
+- ```fourth_task.py``` - четвертое задание
+- ```fifth_task.py``` - пятое задание
+- ```sixth_task.py``` - шестое задание
 
 Для работы алгоритма необходимо, чтобы в корневой папке проекта также находились папки:
 
