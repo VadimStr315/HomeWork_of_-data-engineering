@@ -6,6 +6,9 @@ import os
 
 import pandas as pd
 import msgpack
+import kagglehub
+
+# Download latest version
 
 
 def file_sizes():

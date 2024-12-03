@@ -1,0 +1,492 @@
+[
+    {
+        "city": "Овьедо",
+        "title": "\n     Переправа 51",
+        "address": "Петербургская улица 91\n     \n     395109",
+        "floors": 8,
+        "year_built": 1705,
+        "parking": "есть",
+        "rating": 1.0,
+        "views": 12451
+    },
+    {
+        "city": "Картахена",
+        "title": "Ферма 6",
+        "address": "Садовая улица 59534711",
+        "floors": 9,
+        "year_built": 1669,
+        "parking": "есть",
+        "rating": 0.6,
+        "views": 25448
+    },
+    {
+        "city": "Фигерас",
+        "title": "Институт 19",
+        "address": "Вроцлавская улица 58832742",
+        "floors": 6,
+        "year_built": 1631,
+        "parking": "нет",
+        "rating": 2.3,
+        "views": 60955
+    },
+    {
+        "city": "Мадрид",
+        "title": "Петля 1",
+        "address": "Юбилейная улица 36648183",
+        "floors": 1,
+        "year_built": 1756,
+        "parking": "есть",
+        "rating": 1.1,
+        "views": 28588
+    },
+    {
+        "city": "Касерес",
+        "title": "\n     Развязка 88",
+        "address": "Вроцлавская улица 40\n     \n     808183",
+        "floors": 3,
+        "year_built": 1859,
+        "parking": "нет",
+        "rating": 3.1,
+        "views": 87891
+    },
+    {
+        "city": "Астана",
+        "title": "Школа 19",
+        "address": "Осенняя улица 52659684",
+        "floors": 1,
+        "year_built": 1760,
+        "parking": "есть",
+        "rating": 1.8,
+        "views": 34657
+    },
+    {
+        "city": "Бланес",
+        "title": "\n     Кинотеатр 69",
+        "address": "Горная улица 77\n     \n     108945",
+        "floors": 3,
+        "year_built": 1990,
+        "parking": "есть",
+        "rating": 0.2,
+        "views": 39425
+    },
+    {
+        "city": "Барселона",
+        "title": "Лосятник 9",
+        "address": "Спортивная улица 88145091",
+        "floors": 1,
+        "year_built": 1995,
+        "parking": "нет",
+        "rating": 1.0,
+        "views": 15800
+    },
+    {
+        "city": "Баку",
+        "title": "\n     Виадук 97",
+        "address": "Весенняя улица 27\n     \n     918315",
+        "floors": 2,
+        "year_built": 1705,
+        "parking": "нет",
+        "rating": 2.5,
+        "views": 19953
+    },
+    {
+        "city": "Подгорица",
+        "title": "Кинотеатр 61",
+        "address": "Солнечная улица 95130128",
+        "floors": 1,
+        "year_built": 1742,
+        "parking": "есть",
+        "rating": 2.4,
+        "views": 16492
+    },
+    {
+        "city": "Аликанте",
+        "title": "Кладбище 98",
+        "address": "Школьная улица 73718506",
+        "floors": 3,
+        "year_built": 1680,
+        "parking": "нет",
+        "rating": 1.1,
+        "views": 35283
+    },
+    {
+        "city": "Вроцлав",
+        "title": "\n     Нора 35",
+        "address": "Минская улица 19\n     \n     814511",
+        "floors": 7,
+        "year_built": 1993,
+        "parking": "нет",
+        "rating": 4.3,
+        "views": 84249
+    },
+    {
+        "city": "Хихон",
+        "title": "Вокзал 80",
+        "address": "Садовая улица 72559801",
+        "floors": 1,
+        "year_built": 1835,
+        "parking": "есть",
+        "rating": 2.1,
+        "views": 51055
+    },
+    {
+        "city": "Минск",
+        "title": "\n     Тенета 55",
+        "address": "Солнечная улица 74\n     \n     113057",
+        "floors": 9,
+        "year_built": 1855,
+        "parking": "нет",
+        "rating": 0.6,
+        "views": 45471
+    },
+    {
+        "city": "Тирана",
+        "title": "Убежище 31",
+        "address": "Лесная улица 24319641",
+        "floors": 4,
+        "year_built": 1937,
+        "parking": "есть",
+        "rating": 2.3,
+        "views": 90072
+    },
+    {
+        "city": "Алькала-де-Энарес",
+        "title": "Путепровод 32",
+        "address": "Вроцлавская улица 45703018",
+        "floors": 5,
+        "year_built": 1912,
+        "parking": "есть",
+        "rating": 3.9,
+        "views": 86357
+    },
+    {
+        "city": "Махадаонда",
+        "title": "Причал 47",
+        "address": "Московская улица 1796542",
+        "floors": 7,
+        "year_built": 1932,
+        "parking": "есть",
+        "rating": 3.7,
+        "views": 87667
+    },
+    {
+        "city": "Алма-Ата",
+        "title": "\n     Башня 80",
+        "address": "Минская улица 70\n     \n     397900",
+        "floors": 8,
+        "year_built": 1714,
+        "parking": "нет",
+        "rating": 0.6,
+        "views": 53120
+    },
+    {
+        "city": "Сантьяго-де-Компостела",
+        "title": "Лифт 58",
+        "address": "Осенняя улица 10502423",
+        "floors": 3,
+        "year_built": 1806,
+        "parking": "есть",
+        "rating": 2.2,
+        "views": 38002
+    },
+    {
+        "city": "Сеговия",
+        "title": "\n     Усадьба 38",
+        "address": "Минская улица 89\n     \n     395828",
+        "floors": 7,
+        "year_built": 1719,
+        "parking": "нет",
+        "rating": 3.7,
+        "views": 90376
+    },
+    {
+        "city": "Баку",
+        "title": "\n     Док 76",
+        "address": "Юбилейная улица 46\n     \n     812034",
+        "floors": 10,
+        "year_built": 1798,
+        "parking": "нет",
+        "rating": 2.1,
+        "views": 42534
+    },
+    {
+        "city": "София",
+        "title": "\n     Пасека 70",
+        "address": "Юбилейная улица 12\n     \n     365080",
+        "floors": 4,
+        "year_built": 1610,
+        "parking": "нет",
+        "rating": 3.4,
+        "views": 53821
+    },
+    {
+        "city": "Душанбе",
+        "title": "\n     Пандус 52",
+        "address": "Киевская улица 86\n     \n     867683",
+        "floors": 9,
+        "year_built": 1715,
+        "parking": "есть",
+        "rating": 0.9,
+        "views": 41336
+    },
+    {
+        "city": "Алькала-де-Энарес",
+        "title": "\n     Логово 92",
+        "address": "Летняя улица 71\n     \n     781811",
+        "floors": 1,
+        "year_built": 1836,
+        "parking": "есть",
+        "rating": 0.3,
+        "views": 22121
+    },
+    {
+        "city": "Загреб",
+        "title": " Вилла 86",
+        "address": "Киевская улица 65952106",
+        "floors": 2,
+        "year_built": 1905,
+        "parking": "нет",
+        "rating": 1.5,
+        "views": 33130
+    },
+    {
+        "city": "Вильявисиоса",
+        "title": "\n     Логово 7",
+        "address": "Морская улица 7\n     \n     670708",
+        "floors": 8,
+        "year_built": 1930,
+        "parking": "есть",
+        "rating": 4.4,
+        "views": 66334
+    },
+    {
+        "city": "Сантьяго-де-Компостела",
+        "title": "\n     Берлога 70",
+        "address": "Полевая улица 67\n     \n     720987",
+        "floors": 4,
+        "year_built": 1902,
+        "parking": "есть",
+        "rating": 3.3,
+        "views": 56344
+    },
+    {
+        "city": "Тбилиси",
+        "title": "\n     Мостки 90",
+        "address": "Вроцлавская улица 95\n     \n     735476",
+        "floors": 5,
+        "year_built": 1788,
+        "parking": "нет",
+        "rating": 4.4,
+        "views": 47044
+    },
+    {
+        "city": "Камбадос",
+        "title": "Дуплянка 43",
+        "address": "Морская улица 85827321",
+        "floors": 2,
+        "year_built": 1819,
+        "parking": "есть",
+        "rating": 1.5,
+        "views": 1036
+    },
+    {
+        "city": "Тирана",
+        "title": "Псарня 99",
+        "address": "Вроцлавская улица 70501562",
+        "floors": 5,
+        "year_built": 1875,
+        "parking": "нет",
+        "rating": 4.3,
+        "views": 64056
+    },
+    {
+        "city": "Сан-Себастьян",
+        "title": "Детский сад 47",
+        "address": "Краковская улица 25895559",
+        "floors": 5,
+        "year_built": 1635,
+        "parking": "нет",
+        "rating": 0.6,
+        "views": 68270
+    },
+    {
+        "city": "Ташкент",
+        "title": "\n     Хаус 41",
+        "address": "Весенняя улица 70\n     \n     610362",
+        "floors": 7,
+        "year_built": 1969,
+        "parking": "нет",
+        "rating": 4.3,
+        "views": 36581
+    },
+    {
+        "city": "София",
+        "title": "Страусятник 60",
+        "address": "Полевая улица 88291488",
+        "floors": 5,
+        "year_built": 1742,
+        "parking": "нет",
+        "rating": 3.2,
+        "views": 31729
+    },
+    {
+        "city": "Хельсинки",
+        "title": "\n     Замок 51",
+        "address": "Спортивная улица 62\n     \n     528515",
+        "floors": 5,
+        "year_built": 2000,
+        "parking": "есть",
+        "rating": 4.5,
+        "views": 32609
+    },
+    {
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "title": "Электростанция 23",
+        "address": "Лесная улица 97993774",
+        "floors": 3,
+        "year_built": 1888,
+        "parking": "нет",
+        "rating": 1.8,
+        "views": 74081
+    },
+    {
+        "city": "Белград",
+        "title": "\n     Вилла 26",
+        "address": "Минская улица 73\n     \n     196093",
+        "floors": 2,
+        "year_built": 1746,
+        "parking": "есть",
+        "rating": 0.6,
+        "views": 73766
+    },
+    {
+        "city": "Любляна",
+        "title": "\n     Порт 8",
+        "address": "Солнечная улица 14\n     \n     894507",
+        "floors": 9,
+        "year_built": 1833,
+        "parking": "есть",
+        "rating": 4.0,
+        "views": 4336
+    },
+    {
+        "city": "Астана",
+        "title": "Мостки 30",
+        "address": "Солнечная улица 30813032",
+        "floors": 1,
+        "year_built": 1801,
+        "parking": "нет",
+        "rating": 3.5,
+        "views": 3163
+    },
+    {
+        "city": "Подгорица",
+        "title": "\n     Гусятник 58",
+        "address": "Варшавская улица 43\n     \n     988572",
+        "floors": 4,
+        "year_built": 1845,
+        "parking": "нет",
+        "rating": 1.7,
+        "views": 17473
+    },
+    {
+        "city": "Кадакес",
+        "title": "Ангар 72",
+        "address": "Зеленая улица 36101255",
+        "floors": 9,
+        "year_built": 1866,
+        "parking": "есть",
+        "rating": 1.4,
+        "views": 94418
+    },
+    {
+        "city": "Рига",
+        "title": "\n     Отель 7",
+        "address": "Зимняя улица 4\n     \n     684427",
+        "floors": 9,
+        "year_built": 1994,
+        "parking": "есть",
+        "rating": 0.2,
+        "views": 7697
+    },
+    {
+        "city": "Прага",
+        "title": "\n     Дупло 27",
+        "address": "Лесная улица 3\n     \n     858130",
+        "floors": 7,
+        "year_built": 1935,
+        "parking": "нет",
+        "rating": 2.2,
+        "views": 58677
+    },
+    {
+        "city": "Хихон",
+        "title": "\n     Ангар 44",
+        "address": "Петербургская улица 62\n     \n     795125",
+        "floors": 1,
+        "year_built": 1623,
+        "parking": "есть",
+        "rating": 2.6,
+        "views": 87294
+    },
+    {
+        "city": "Барселона",
+        "title": "\n     Гараж 58",
+        "address": "Вроцлавская улица 42\n     \n     392019",
+        "floors": 1,
+        "year_built": 1985,
+        "parking": "нет",
+        "rating": 4.9,
+        "views": 54997
+    },
+    {
+        "city": "Кордова",
+        "title": "\n     Сеть 49",
+        "address": "Петербургская улица 37\n     \n     899354",
+        "floors": 8,
+        "year_built": 1793,
+        "parking": "есть",
+        "rating": 3.7,
+        "views": 73148
+    },
+    {
+        "city": "Хихон",
+        "title": "Автомойка 26",
+        "address": "Полевая улица 26290445",
+        "floors": 4,
+        "year_built": 1713,
+        "parking": "есть",
+        "rating": 2.1,
+        "views": 1343
+    },
+    {
+        "city": "Таллин",
+        "title": "Петля 29",
+        "address": "Краковская улица 13353238",
+        "floors": 6,
+        "year_built": 1731,
+        "parking": "есть",
+        "rating": 4.0,
+        "views": 74542
+    },
+    {
+        "city": "Монсон",
+        "title": "Тенета 55",
+        "address": "Солнечная улица 86107869",
+        "floors": 2,
+        "year_built": 1858,
+        "parking": "нет",
+        "rating": 2.0,
+        "views": 37471
+    },
+    {
+        "city": "Монсон",
+        "title": "Волчатник 19",
+        "address": "Вроцлавская улица 14833427",
+        "floors": 7,
+        "year_built": 1704,
+        "parking": "нет",
+        "rating": 1.9,
+        "views": 41955
+    }
+]
