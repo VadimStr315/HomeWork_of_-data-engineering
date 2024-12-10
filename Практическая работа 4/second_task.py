@@ -79,7 +79,6 @@ def insert_data(origin_data, description_data):
     cursor = conn.cursor()
 
     try:
-        # Insert data into task2_1
         cursor.execute('''
             INSERT OR IGNORE INTO task2_1 (id, name, street, city, zipcode, floors, year, parking, prob_price, views) 
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
@@ -88,19 +87,17 @@ def insert_data(origin_data, description_data):
               origin_data['year'], origin_data['parking'], origin_data['prob_price'],
               origin_data['views']))
 
-        # Insert data into task2_2
         cursor.execute('''
             INSERT INTO task2_2 (building_name, rating, convenience, security, functionality, comment) 
             VALUES (?, ?, ?, ?, ?, ?)
         ''', (description_data['name'], description_data['rating'], description_data['convenience'],
               description_data['security'], description_data['functionality'], description_data['comment']))
 
-        # Commit the transaction
         conn.commit()
 
     except sqlite3.Error as e:
         print(f"An error occurred: {e}")
-        conn.rollback()  # Rollback in case of error
+        conn.rollback()  
 
     finally:
         cursor.close()
