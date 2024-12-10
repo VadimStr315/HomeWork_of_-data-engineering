@@ -1,0 +1,2044 @@
+[
+    {
+        "name": "trendy lip balm",
+        "price": 96.58,
+        "quantity": 624,
+        "category": "cosmetics",
+        "fromCity": "Лас-Росас",
+        "isAvailable": true,
+        "views": 64290
+    },
+    {
+        "name": "elegant baseboard",
+        "price": 81.99,
+        "quantity": 512,
+        "category": "tools",
+        "fromCity": "Баку",
+        "isAvailable": true,
+        "views": 18592
+    },
+    {
+        "name": "amazing tape measure",
+        "price": 71.88,
+        "quantity": 769,
+        "category": "tools",
+        "fromCity": "Севилья",
+        "isAvailable": false,
+        "views": 44971
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "price": 28922,
+        "quantity": 43,
+        "fromCity": "Кадакес",
+        "isAvailable": true,
+        "views": 62219
+    },
+    {
+        "name": "pretty electrical",
+        "price": 76.16,
+        "quantity": 586,
+        "category": "tools",
+        "fromCity": "Эльче",
+        "isAvailable": false,
+        "views": 60905
+    },
+    {
+        "name": "sublime flooring",
+        "price": 60.52,
+        "quantity": 747,
+        "category": "tools",
+        "fromCity": "Кишинев",
+        "isAvailable": true,
+        "views": 72118
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "price": 17483,
+        "quantity": 29,
+        "fromCity": "Лас-Росас",
+        "isAvailable": true,
+        "views": 62109
+    },
+    {
+        "name": "pretty paint",
+        "price": 15.78,
+        "quantity": 843,
+        "category": "tools",
+        "fromCity": "Навалькарнеро",
+        "isAvailable": false,
+        "views": 52073
+    },
+    {
+        "name": "marvelous kiwifruit",
+        "price": 97.9,
+        "quantity": 870,
+        "category": "fruit",
+        "fromCity": "Сория",
+        "isAvailable": false,
+        "views": 96336
+    },
+    {
+        "name": "glamorous cranberry",
+        "price": 12.08,
+        "quantity": 945,
+        "category": "fruit",
+        "fromCity": "Бургос",
+        "isAvailable": false,
+        "views": 6121
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "price": 79639,
+        "quantity": 13,
+        "fromCity": "Куэнка",
+        "isAvailable": false,
+        "views": 31488
+    },
+    {
+        "name": "Ricoh Aficio MP",
+        "price": 42792,
+        "quantity": 54,
+        "fromCity": "Бургос",
+        "isAvailable": true,
+        "views": 52789
+    },
+    {
+        "name": "tasteful nails",
+        "price": 48.34,
+        "quantity": 971,
+        "category": "tools",
+        "fromCity": "Фигерас",
+        "isAvailable": true,
+        "views": 3829
+    },
+    {
+        "name": "nice lip balm",
+        "price": 81.27,
+        "quantity": 761,
+        "category": "cosmetics",
+        "fromCity": "Ереван",
+        "isAvailable": false,
+        "views": 33810
+    },
+    {
+        "name": "superb nail polish",
+        "price": 66.25,
+        "quantity": 810,
+        "category": "cosmetics",
+        "fromCity": "Кадакес",
+        "isAvailable": false,
+        "views": 8257
+    },
+    {
+        "name": "Corsair HS60",
+        "price": 86007,
+        "quantity": 47,
+        "fromCity": "Алма-Ата",
+        "isAvailable": false,
+        "views": 84524
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "price": 74164,
+        "quantity": 45,
+        "fromCity": "Тарраса",
+        "isAvailable": true,
+        "views": 52980
+    },
+    {
+        "name": "magnificent blueberry",
+        "price": 12.66,
+        "quantity": 465,
+        "category": "fruit",
+        "fromCity": "Виго",
+        "isAvailable": false,
+        "views": 50366
+    },
+    {
+        "name": "tasteful papaya",
+        "price": 48.94,
+        "quantity": 860,
+        "category": "fruit",
+        "fromCity": "Малага",
+        "isAvailable": true,
+        "views": 19568
+    },
+    {
+        "name": "beautiful grapes",
+        "price": 89.02,
+        "quantity": 575,
+        "category": "fruit",
+        "fromCity": "Пласенсия",
+        "isAvailable": true,
+        "views": 38808
+    },
+    {
+        "name": "amazing wallpaper",
+        "price": 53.61,
+        "quantity": 870,
+        "category": "tools",
+        "fromCity": "Астана",
+        "isAvailable": true,
+        "views": 71378
+    },
+    {
+        "name": "Ricoh Aficio MP",
+        "price": 51455,
+        "quantity": 47,
+        "fromCity": "Любляна",
+        "isAvailable": false,
+        "views": 8541
+    },
+    {
+        "name": "nice siding",
+        "price": 21.93,
+        "quantity": 487,
+        "category": "tools",
+        "fromCity": "Афины",
+        "isAvailable": false,
+        "views": 27057
+    },
+    {
+        "name": "nice plumbing",
+        "price": 12.88,
+        "quantity": 716,
+        "category": "tools",
+        "fromCity": "Астана",
+        "isAvailable": true,
+        "views": 58623
+    },
+    {
+        "name": "delightful strawberry",
+        "price": 34.21,
+        "quantity": 940,
+        "category": "fruit",
+        "fromCity": "Самора",
+        "isAvailable": false,
+        "views": 41062
+    },
+    {
+        "name": "refined apricot",
+        "price": 11.92,
+        "quantity": 718,
+        "category": "fruit",
+        "fromCity": "Будапешт",
+        "isAvailable": true,
+        "views": 89612
+    },
+    {
+        "name": "stylish conditioner",
+        "price": 32.0,
+        "quantity": 636,
+        "category": "cosmetics",
+        "fromCity": "Куэнка",
+        "isAvailable": true,
+        "views": 27168
+    },
+    {
+        "name": "nice windows",
+        "price": 34.88,
+        "quantity": 726,
+        "category": "tools",
+        "fromCity": "Минск",
+        "isAvailable": false,
+        "views": 41891
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "price": 70648,
+        "quantity": 56,
+        "fromCity": "Сантьяго-де-Компостела",
+        "isAvailable": false,
+        "views": 77136
+    },
+    {
+        "name": "amazing nail polish",
+        "price": 42.41,
+        "quantity": 844,
+        "category": "cosmetics",
+        "fromCity": "Лас-Росас",
+        "isAvailable": false,
+        "views": 97511
+    },
+    {
+        "name": "elegant perfume",
+        "price": 63.59,
+        "quantity": 666,
+        "category": "cosmetics",
+        "fromCity": "Варшава",
+        "isAvailable": true,
+        "views": 25129
+    },
+    {
+        "name": "magnificent screws",
+        "price": 15.34,
+        "quantity": 924,
+        "category": "tools",
+        "fromCity": "Ереван",
+        "isAvailable": true,
+        "views": 16683
+    },
+    {
+        "name": "gorgeous lip balm",
+        "price": 67.7,
+        "quantity": 896,
+        "category": "cosmetics",
+        "fromCity": "Махадаонда",
+        "isAvailable": false,
+        "views": 76015
+    },
+    {
+        "name": "attractive sunscreen",
+        "price": 52.21,
+        "quantity": 709,
+        "category": "cosmetics",
+        "fromCity": "Фигерас",
+        "isAvailable": false,
+        "views": 64215
+    },
+    {
+        "name": "elegant plumbing",
+        "price": 50.12,
+        "quantity": 768,
+        "category": "tools",
+        "fromCity": "Рига",
+        "isAvailable": true,
+        "views": 28153
+    },
+    {
+        "name": "exquisite shovel",
+        "price": 12.07,
+        "quantity": 748,
+        "category": "tools",
+        "fromCity": "Баку",
+        "isAvailable": false,
+        "views": 71731
+    },
+    {
+        "name": "tasteful flooring",
+        "price": 20.66,
+        "quantity": 736,
+        "category": "tools",
+        "fromCity": "Гранада",
+        "isAvailable": false,
+        "views": 9273
+    },
+    {
+        "name": "sublime roofing",
+        "price": 80.6,
+        "quantity": 791,
+        "category": "tools",
+        "fromCity": "Камбадос",
+        "isAvailable": true,
+        "views": 45528
+    },
+    {
+        "name": "magnificent moustache wax",
+        "price": 55.77,
+        "quantity": 846,
+        "category": "cosmetics",
+        "fromCity": "Вильявисиоса",
+        "isAvailable": false,
+        "views": 8309
+    },
+    {
+        "name": "trendy strawberry",
+        "price": 31.03,
+        "quantity": 759,
+        "category": "fruit",
+        "fromCity": "Астана",
+        "isAvailable": false,
+        "views": 52189
+    },
+    {
+        "name": "glamorous toner",
+        "price": 12.1,
+        "quantity": 726,
+        "category": "cosmetics",
+        "fromCity": "Куэнка",
+        "isAvailable": true,
+        "views": 72454
+    },
+    {
+        "name": "luxurious peach",
+        "price": 83.59,
+        "quantity": 786,
+        "category": "fruit",
+        "fromCity": "Кордова",
+        "isAvailable": false,
+        "views": 63112
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "price": 25506,
+        "quantity": 59,
+        "fromCity": "Тудела",
+        "isAvailable": true,
+        "views": 28228
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "price": 60736,
+        "quantity": 47,
+        "fromCity": "Тарраса",
+        "isAvailable": false,
+        "views": 33037
+    },
+    {
+        "name": "luxurious plum",
+        "price": 90.4,
+        "quantity": 819,
+        "category": "fruit",
+        "fromCity": "Камбадос",
+        "isAvailable": false,
+        "views": 28462
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "price": 97584,
+        "quantity": 47,
+        "fromCity": "Навалькарнеро",
+        "isAvailable": false,
+        "views": 15729
+    },
+    {
+        "name": "glamorous roofing",
+        "price": 34.75,
+        "quantity": 899,
+        "category": "tools",
+        "fromCity": "Хихон",
+        "isAvailable": true,
+        "views": 37755
+    },
+    {
+        "name": "nice drywall",
+        "price": 26.72,
+        "quantity": 885,
+        "category": "tools",
+        "fromCity": "Любляна",
+        "isAvailable": false,
+        "views": 40104
+    },
+    {
+        "name": "pretty shovel",
+        "price": 23.15,
+        "quantity": 599,
+        "category": "tools",
+        "fromCity": "Трухильо",
+        "isAvailable": false,
+        "views": 84690
+    },
+    {
+        "name": "gorgeous lip balm",
+        "price": 17.72,
+        "quantity": 607,
+        "category": "cosmetics",
+        "fromCity": "Осера",
+        "isAvailable": true,
+        "views": 18431
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "price": 99310,
+        "quantity": 15,
+        "fromCity": "Любляна",
+        "isAvailable": false,
+        "views": 6602
+    },
+    {
+        "name": "nice screws",
+        "price": 94.97,
+        "quantity": 827,
+        "category": "tools",
+        "fromCity": "Сория",
+        "isAvailable": false,
+        "views": 78060
+    },
+    {
+        "name": "magnificent shampoo",
+        "price": 91.21,
+        "quantity": 510,
+        "category": "cosmetics",
+        "fromCity": "Тбилиси",
+        "isAvailable": true,
+        "views": 11923
+    },
+    {
+        "name": "stylish night cream",
+        "price": 66.69,
+        "quantity": 676,
+        "category": "cosmetics",
+        "fromCity": "Хихон",
+        "isAvailable": true,
+        "views": 11283
+    },
+    {
+        "name": "pleasant pedicure set",
+        "price": 77.24,
+        "quantity": 598,
+        "category": "cosmetics",
+        "fromCity": "Барселона",
+        "isAvailable": true,
+        "views": 43770
+    },
+    {
+        "name": "magnificent banana",
+        "price": 26.57,
+        "quantity": 580,
+        "category": "fruit",
+        "fromCity": "Загреб",
+        "isAvailable": false,
+        "views": 1351
+    },
+    {
+        "name": "Canon PIXMA",
+        "price": 35175,
+        "quantity": 19,
+        "fromCity": "Авилес",
+        "isAvailable": true,
+        "views": 4242
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "price": 66267,
+        "quantity": 29,
+        "fromCity": "Малага",
+        "isAvailable": false,
+        "views": 4676
+    },
+    {
+        "name": "pleasant facial cleanser",
+        "price": 24.89,
+        "quantity": 777,
+        "category": "cosmetics",
+        "fromCity": "Киев",
+        "isAvailable": false,
+        "views": 30573
+    },
+    {
+        "name": "Razer Variau",
+        "price": 20820,
+        "quantity": 63,
+        "fromCity": "Навалькарнеро",
+        "isAvailable": false,
+        "views": 12019
+    },
+    {
+        "name": "marvelous night cream",
+        "price": 50.88,
+        "quantity": 705,
+        "category": "cosmetics",
+        "fromCity": "Кордова",
+        "isAvailable": false,
+        "views": 55343
+    },
+    {
+        "name": "Ricoh Aficio MP",
+        "price": 68710,
+        "quantity": 21,
+        "fromCity": "Вроцлав",
+        "isAvailable": true,
+        "views": 11448
+    },
+    {
+        "name": "pleasant kiwifruit",
+        "price": 35.08,
+        "quantity": 993,
+        "category": "fruit",
+        "fromCity": "Вильнюс",
+        "isAvailable": false,
+        "views": 89369
+    },
+    {
+        "name": "trendy windows",
+        "price": 42.13,
+        "quantity": 954,
+        "category": "tools",
+        "fromCity": "Хельсинки",
+        "isAvailable": false,
+        "views": 78704
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "price": 77803,
+        "quantity": 68,
+        "fromCity": "Пласенсия",
+        "isAvailable": true,
+        "views": 8528
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "price": 34395,
+        "quantity": 49,
+        "fromCity": "Барселона",
+        "isAvailable": false,
+        "views": 99236
+    },
+    {
+        "name": "refined perfume",
+        "price": 60.86,
+        "quantity": 945,
+        "category": "cosmetics",
+        "fromCity": "Тудела",
+        "isAvailable": true,
+        "views": 26409
+    },
+    {
+        "name": "sublime nail file",
+        "price": 95.68,
+        "quantity": 625,
+        "category": "cosmetics",
+        "fromCity": "Таллин",
+        "isAvailable": false,
+        "views": 98395
+    },
+    {
+        "name": "luxurious apricot",
+        "price": 17.38,
+        "quantity": 948,
+        "category": "fruit",
+        "fromCity": "Аликанте",
+        "isAvailable": true,
+        "views": 62255
+    },
+    {
+        "name": "delightful melon",
+        "price": 88.59,
+        "quantity": 617,
+        "category": "fruit",
+        "fromCity": "Ереван",
+        "isAvailable": true,
+        "views": 62978
+    },
+    {
+        "name": "attractive moustache wax",
+        "price": 10.93,
+        "quantity": 813,
+        "category": "cosmetics",
+        "fromCity": "Белград",
+        "isAvailable": false,
+        "views": 60034
+    },
+    {
+        "name": "gorgeous eye cream",
+        "price": 27.52,
+        "quantity": 857,
+        "category": "cosmetics",
+        "fromCity": "Москва",
+        "isAvailable": true,
+        "views": 57652
+    },
+    {
+        "name": "beautiful toner",
+        "price": 66.23,
+        "quantity": 648,
+        "category": "cosmetics",
+        "fromCity": "Фигерас",
+        "isAvailable": true,
+        "views": 81258
+    },
+    {
+        "name": "HyperX DDR4 RAM",
+        "price": 74016,
+        "quantity": 10,
+        "fromCity": "Луго",
+        "isAvailable": true,
+        "views": 25321
+    },
+    {
+        "name": "magnificent baseboard",
+        "price": 98.43,
+        "quantity": 896,
+        "category": "tools",
+        "fromCity": "Гранада",
+        "isAvailable": false,
+        "views": 27356
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "price": 51587,
+        "quantity": 20,
+        "fromCity": "Кордова",
+        "isAvailable": true,
+        "views": 23327
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "price": 72410,
+        "quantity": 45,
+        "fromCity": "Ла-Корунья",
+        "isAvailable": true,
+        "views": 67904
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "price": 24489,
+        "quantity": 51,
+        "fromCity": "Хихон",
+        "isAvailable": true,
+        "views": 1424
+    },
+    {
+        "name": "sublime boysenberry",
+        "price": 31.92,
+        "quantity": 541,
+        "category": "fruit",
+        "fromCity": "Тудела",
+        "isAvailable": false,
+        "views": 24292
+    },
+    {
+        "name": "superb pineapple",
+        "price": 17.53,
+        "quantity": 895,
+        "category": "fruit",
+        "fromCity": "Лас-Росас",
+        "isAvailable": true,
+        "views": 5814
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "price": 71521,
+        "quantity": 14,
+        "fromCity": "Авилес",
+        "isAvailable": true,
+        "views": 48029
+    },
+    {
+        "name": "glamorous grapes",
+        "price": 43.75,
+        "quantity": 615,
+        "category": "fruit",
+        "fromCity": "Санкт-Петербург",
+        "isAvailable": false,
+        "views": 39081
+    },
+    {
+        "name": "exquisite tile",
+        "price": 72.05,
+        "quantity": 928,
+        "category": "tools",
+        "fromCity": "Кишинев",
+        "isAvailable": true,
+        "views": 12864
+    },
+    {
+        "name": "SteelSeries Arctis 7",
+        "price": 15625,
+        "quantity": 57,
+        "fromCity": "Сеговия",
+        "isAvailable": true,
+        "views": 16798
+    },
+    {
+        "name": "sublime trim",
+        "price": 75.31,
+        "quantity": 965,
+        "category": "tools",
+        "fromCity": "Барселона",
+        "isAvailable": false,
+        "views": 99482
+    },
+    {
+        "name": "refined lotion",
+        "price": 91.3,
+        "quantity": 805,
+        "category": "cosmetics",
+        "fromCity": "Скопье",
+        "isAvailable": true,
+        "views": 27961
+    },
+    {
+        "name": "marvelous guava",
+        "price": 64.88,
+        "quantity": 886,
+        "category": "fruit",
+        "fromCity": "Семана",
+        "isAvailable": true,
+        "views": 79337
+    },
+    {
+        "name": "pleasant windows",
+        "price": 42.44,
+        "quantity": 537,
+        "category": "tools",
+        "fromCity": "Фигерас",
+        "isAvailable": true,
+        "views": 43603
+    },
+    {
+        "name": "Corsair HS60",
+        "price": 61735,
+        "quantity": 11,
+        "fromCity": "Сан-Себастьян",
+        "isAvailable": true,
+        "views": 57943
+    },
+    {
+        "name": "WD Blue HDD",
+        "price": 49652,
+        "quantity": 74,
+        "fromCity": "Ташкент",
+        "isAvailable": false,
+        "views": 63163
+    },
+    {
+        "name": "tasteful eye cream",
+        "price": 12.36,
+        "quantity": 690,
+        "category": "cosmetics",
+        "fromCity": "Ташкент",
+        "isAvailable": true,
+        "views": 74372
+    },
+    {
+        "name": "amazing flooring",
+        "price": 51.1,
+        "quantity": 848,
+        "category": "tools",
+        "fromCity": "Алма-Ата",
+        "isAvailable": true,
+        "views": 50927
+    },
+    {
+        "name": "amazing exfoliator",
+        "price": 58.74,
+        "quantity": 674,
+        "category": "cosmetics",
+        "fromCity": "Навалькарнеро",
+        "isAvailable": true,
+        "views": 82653
+    },
+    {
+        "name": "tasteful cherry",
+        "price": 82.25,
+        "quantity": 808,
+        "category": "fruit",
+        "fromCity": "Белград",
+        "isAvailable": true,
+        "views": 2233
+    },
+    {
+        "name": "trendy plum",
+        "price": 42.57,
+        "quantity": 648,
+        "category": "fruit",
+        "fromCity": "Подгорица",
+        "isAvailable": true,
+        "views": 98518
+    },
+    {
+        "name": "trendy moustache wax",
+        "price": 99.97,
+        "quantity": 667,
+        "category": "cosmetics",
+        "fromCity": "Ташкент",
+        "isAvailable": true,
+        "views": 39854
+    },
+    {
+        "name": "trendy conditioner",
+        "price": 20.14,
+        "quantity": 900,
+        "category": "cosmetics",
+        "fromCity": "Кишинев",
+        "isAvailable": true,
+        "views": 92078
+    },
+    {
+        "name": "marvelous conditioner",
+        "price": 57.78,
+        "quantity": 691,
+        "category": "cosmetics",
+        "fromCity": "Вильнюс",
+        "isAvailable": true,
+        "views": 86188
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "price": 74200,
+        "quantity": 52,
+        "fromCity": "Ла-Корунья",
+        "isAvailable": false,
+        "views": 60436
+    },
+    {
+        "name": "attractive screws",
+        "price": 35.21,
+        "quantity": 955,
+        "category": "tools",
+        "fromCity": "Лас-Росас",
+        "isAvailable": true,
+        "views": 33022
+    },
+    {
+        "name": "pretty grapes",
+        "price": 47.9,
+        "quantity": 998,
+        "category": "fruit",
+        "fromCity": "Варшава",
+        "isAvailable": true,
+        "views": 89733
+    },
+    {
+        "name": "attractive kiwifruit",
+        "price": 54.11,
+        "quantity": 978,
+        "category": "fruit",
+        "fromCity": "Картахена",
+        "isAvailable": true,
+        "views": 3644
+    },
+    {
+        "name": "delightful orange",
+        "price": 64.5,
+        "quantity": 610,
+        "category": "fruit",
+        "fromCity": "Виго",
+        "isAvailable": false,
+        "views": 28793
+    },
+    {
+        "name": "magnificent apricot",
+        "price": 50.04,
+        "quantity": 974,
+        "category": "fruit",
+        "fromCity": "Камбадос",
+        "isAvailable": true,
+        "views": 33825
+    },
+    {
+        "name": "Canon PIXMA",
+        "price": 78231,
+        "quantity": 49,
+        "fromCity": "Пласенсия",
+        "isAvailable": false,
+        "views": 62577
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "price": 24060,
+        "quantity": 44,
+        "fromCity": "Сьюдад-Реаль",
+        "isAvailable": true,
+        "views": 92130
+    },
+    {
+        "name": "trendy nail file",
+        "price": 35.96,
+        "quantity": 652,
+        "category": "cosmetics",
+        "fromCity": "Астана",
+        "isAvailable": false,
+        "views": 24328
+    },
+    {
+        "name": "tasteful tile",
+        "price": 36.37,
+        "quantity": 644,
+        "category": "tools",
+        "fromCity": "Вальядолид",
+        "isAvailable": true,
+        "views": 91408
+    },
+    {
+        "name": "magnificent electrical",
+        "price": 97.77,
+        "quantity": 894,
+        "category": "tools",
+        "fromCity": "Навалькарнеро",
+        "isAvailable": true,
+        "views": 80621
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "price": 28437,
+        "quantity": 65,
+        "fromCity": "Семана",
+        "isAvailable": false,
+        "views": 55537
+    },
+    {
+        "name": "exquisite saw",
+        "price": 70.95,
+        "quantity": 558,
+        "category": "tools",
+        "fromCity": "Фигерас",
+        "isAvailable": false,
+        "views": 99043
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "price": 48745,
+        "quantity": 72,
+        "fromCity": "София",
+        "isAvailable": false,
+        "views": 61934
+    },
+    {
+        "name": "Corsair HS60",
+        "price": 84653,
+        "quantity": 22,
+        "fromCity": "Рига",
+        "isAvailable": false,
+        "views": 48493
+    },
+    {
+        "name": "Canon PIXMA",
+        "price": 88230,
+        "quantity": 64,
+        "fromCity": "Краков",
+        "isAvailable": true,
+        "views": 22486
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "price": 40309,
+        "quantity": 66,
+        "fromCity": "Афины",
+        "isAvailable": true,
+        "views": 52485
+    },
+    {
+        "name": "attractive plum",
+        "price": 61.32,
+        "quantity": 957,
+        "category": "fruit",
+        "fromCity": "Алма-Ата",
+        "isAvailable": true,
+        "views": 13308
+    },
+    {
+        "name": "pleasant hair mask",
+        "price": 94.28,
+        "quantity": 715,
+        "category": "cosmetics",
+        "fromCity": "Кишинев",
+        "isAvailable": false,
+        "views": 61327
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "price": 53186,
+        "quantity": 10,
+        "fromCity": "Рига",
+        "isAvailable": true,
+        "views": 28916
+    },
+    {
+        "name": "tasteful siding",
+        "price": 63.93,
+        "quantity": 531,
+        "category": "tools",
+        "fromCity": "Бланес",
+        "isAvailable": true,
+        "views": 23807
+    },
+    {
+        "name": "pretty exfoliator",
+        "price": 69.61,
+        "quantity": 961,
+        "category": "cosmetics",
+        "fromCity": "Кишинев",
+        "isAvailable": true,
+        "views": 26053
+    },
+    {
+        "name": "gorgeous orange",
+        "price": 76.67,
+        "quantity": 639,
+        "category": "fruit",
+        "fromCity": "Ташкент",
+        "isAvailable": true,
+        "views": 45119
+    },
+    {
+        "name": "sublime perfume",
+        "price": 53.93,
+        "quantity": 911,
+        "category": "cosmetics",
+        "fromCity": "Ла-Корунья",
+        "isAvailable": true,
+        "views": 4648
+    },
+    {
+        "name": "superb level",
+        "price": 76.78,
+        "quantity": 602,
+        "category": "tools",
+        "fromCity": "Касерес",
+        "isAvailable": false,
+        "views": 94821
+    },
+    {
+        "name": "marvelous roofing",
+        "price": 76.48,
+        "quantity": 982,
+        "category": "tools",
+        "fromCity": "Монсон",
+        "isAvailable": false,
+        "views": 82462
+    },
+    {
+        "name": "exquisite guava",
+        "price": 93.06,
+        "quantity": 804,
+        "category": "fruit",
+        "fromCity": "Скопье",
+        "isAvailable": true,
+        "views": 67500
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "price": 91801,
+        "quantity": 74,
+        "fromCity": "Москва",
+        "isAvailable": true,
+        "views": 46824
+    },
+    {
+        "name": "trendy nail polish",
+        "price": 29.53,
+        "quantity": 806,
+        "category": "cosmetics",
+        "fromCity": "Прага",
+        "isAvailable": true,
+        "views": 75568
+    },
+    {
+        "name": "Logitech Wireless Keyboard",
+        "price": 75567,
+        "quantity": 40,
+        "fromCity": "Любляна",
+        "isAvailable": true,
+        "views": 9908
+    },
+    {
+        "name": "gorgeous boysenberry",
+        "price": 30.78,
+        "quantity": 828,
+        "category": "fruit",
+        "fromCity": "Мурсия",
+        "isAvailable": true,
+        "views": 51223
+    },
+    {
+        "name": "gorgeous raspberry",
+        "price": 91.26,
+        "quantity": 508,
+        "category": "fruit",
+        "fromCity": "Луго",
+        "isAvailable": true,
+        "views": 97024
+    },
+    {
+        "name": "tasteful hammer",
+        "price": 96.83,
+        "quantity": 766,
+        "category": "tools",
+        "fromCity": "Виго",
+        "isAvailable": true,
+        "views": 94910
+    },
+    {
+        "name": "beautiful saw",
+        "price": 13.3,
+        "quantity": 946,
+        "category": "tools",
+        "fromCity": "Тарраса",
+        "isAvailable": false,
+        "views": 97160
+    },
+    {
+        "name": "amazing tile",
+        "price": 92.05,
+        "quantity": 766,
+        "category": "tools",
+        "fromCity": "Навалькарнеро",
+        "isAvailable": false,
+        "views": 74370
+    },
+    {
+        "name": "nice face wash",
+        "price": 89.69,
+        "quantity": 693,
+        "category": "cosmetics",
+        "fromCity": "Хихон",
+        "isAvailable": true,
+        "views": 89820
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "price": 36464,
+        "quantity": 53,
+        "fromCity": "Душанбе",
+        "isAvailable": false,
+        "views": 6998
+    },
+    {
+        "name": "Canon PIXMA",
+        "price": 88297,
+        "quantity": 24,
+        "fromCity": "Трухильо",
+        "isAvailable": true,
+        "views": 86504
+    },
+    {
+        "name": "superb perfume",
+        "price": 21.31,
+        "quantity": 608,
+        "category": "cosmetics",
+        "fromCity": "Афины",
+        "isAvailable": false,
+        "views": 76147
+    },
+    {
+        "name": "Intel Core i5",
+        "price": 69907,
+        "quantity": 33,
+        "fromCity": "Кордова",
+        "isAvailable": true,
+        "views": 46289
+    },
+    {
+        "name": "amazing cranberry",
+        "price": 25.57,
+        "quantity": 587,
+        "category": "fruit",
+        "fromCity": "Тирана",
+        "isAvailable": true,
+        "views": 39419
+    },
+    {
+        "name": "Corsair HS60",
+        "price": 99358,
+        "quantity": 73,
+        "fromCity": "Сараево",
+        "isAvailable": true,
+        "views": 12048
+    },
+    {
+        "name": "glamorous shampoo",
+        "price": 43.02,
+        "quantity": 968,
+        "category": "cosmetics",
+        "fromCity": "Ереван",
+        "isAvailable": true,
+        "views": 92525
+    },
+    {
+        "name": "tasteful nails",
+        "price": 61.2,
+        "quantity": 725,
+        "category": "tools",
+        "fromCity": "Мурсия",
+        "isAvailable": false,
+        "views": 57981
+    },
+    {
+        "name": "exquisite screws",
+        "price": 67.15,
+        "quantity": 964,
+        "category": "tools",
+        "fromCity": "Тудела",
+        "isAvailable": true,
+        "views": 99125
+    },
+    {
+        "name": "trendy blackberry",
+        "price": 35.55,
+        "quantity": 807,
+        "category": "fruit",
+        "fromCity": "Валенсия",
+        "isAvailable": true,
+        "views": 24700
+    },
+    {
+        "name": "luxurious bubble bath",
+        "price": 16.62,
+        "quantity": 874,
+        "category": "cosmetics",
+        "fromCity": "Хихон",
+        "isAvailable": true,
+        "views": 13623
+    },
+    {
+        "name": "refined plumbing",
+        "price": 64.17,
+        "quantity": 642,
+        "category": "tools",
+        "fromCity": "Москва",
+        "isAvailable": false,
+        "views": 2190
+    },
+    {
+        "name": "attractive lotion",
+        "price": 40.95,
+        "quantity": 687,
+        "category": "cosmetics",
+        "fromCity": "Мадрид",
+        "isAvailable": false,
+        "views": 39274
+    },
+    {
+        "name": "tasteful peach",
+        "price": 97.53,
+        "quantity": 1041,
+        "category": "fruit",
+        "fromCity": "Киев",
+        "isAvailable": false,
+        "views": 53751
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "price": 61933,
+        "quantity": 12,
+        "fromCity": "Бланес",
+        "isAvailable": false,
+        "views": 28250
+    },
+    {
+        "name": "pleasant moisturizer",
+        "price": 12.71,
+        "quantity": 801,
+        "category": "cosmetics",
+        "fromCity": "Белград",
+        "isAvailable": false,
+        "views": 19693
+    },
+    {
+        "name": "magnificent nail polish",
+        "price": 59.46,
+        "quantity": 689,
+        "category": "cosmetics",
+        "fromCity": "Ташкент",
+        "isAvailable": true,
+        "views": 41411
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "price": 47665,
+        "quantity": 36,
+        "fromCity": "Аликанте",
+        "isAvailable": true,
+        "views": 59917
+    },
+    {
+        "name": "Kingston Canvas Select Plus",
+        "price": 90046,
+        "quantity": 64,
+        "fromCity": "Таллин",
+        "isAvailable": false,
+        "views": 92987
+    },
+    {
+        "name": "tasteful peach",
+        "price": 33.56,
+        "quantity": 992,
+        "category": "fruit",
+        "fromCity": "Киев",
+        "isAvailable": false,
+        "views": 87476
+    },
+    {
+        "name": "Ricoh Aficio MP",
+        "price": 22837,
+        "quantity": 52,
+        "fromCity": "Белград",
+        "isAvailable": true,
+        "views": 63573
+    },
+    {
+        "name": "luxurious blueberry",
+        "price": 72.68,
+        "quantity": 810,
+        "category": "fruit",
+        "fromCity": "Льейда",
+        "isAvailable": true,
+        "views": 55665
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "price": 53268,
+        "quantity": 11,
+        "fromCity": "Санкт-Петербург",
+        "isAvailable": false,
+        "views": 91744
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "price": 88636,
+        "quantity": 15,
+        "fromCity": "Душанбе",
+        "isAvailable": true,
+        "views": 45714
+    },
+    {
+        "name": "marvelous toner",
+        "price": 84.99,
+        "quantity": 911,
+        "category": "cosmetics",
+        "fromCity": "Куэнка",
+        "isAvailable": true,
+        "views": 77133
+    },
+    {
+        "name": "HyperX DDR4 RAM",
+        "price": 56026,
+        "quantity": 14,
+        "fromCity": "Ереван",
+        "isAvailable": true,
+        "views": 608
+    },
+    {
+        "name": "tasteful facial cleanser",
+        "price": 88.8,
+        "quantity": 765,
+        "category": "cosmetics",
+        "fromCity": "Монсон",
+        "isAvailable": false,
+        "views": 38989
+    },
+    {
+        "name": "beautiful plum",
+        "price": 92.09,
+        "quantity": 740,
+        "category": "fruit",
+        "fromCity": "Санкт-Петербург",
+        "isAvailable": true,
+        "views": 3710
+    },
+    {
+        "name": "HP LaserJet Pro",
+        "price": 77129,
+        "quantity": 63,
+        "fromCity": "Любляна",
+        "isAvailable": true,
+        "views": 55756
+    },
+    {
+        "name": "EVGA 500B 80+ BRONZE",
+        "price": 37074,
+        "quantity": 27,
+        "fromCity": "Белград",
+        "isAvailable": true,
+        "views": 30138
+    },
+    {
+        "name": "HyperX DDR4 RAM",
+        "price": 16996,
+        "quantity": 68,
+        "fromCity": "Луго",
+        "isAvailable": true,
+        "views": 3429
+    },
+    {
+        "name": "trendy face wash",
+        "price": 98.14,
+        "quantity": 722,
+        "category": "cosmetics",
+        "fromCity": "Рига",
+        "isAvailable": false,
+        "views": 63353
+    },
+    {
+        "name": "sublime serum",
+        "price": 34.11,
+        "quantity": 1016,
+        "category": "cosmetics",
+        "fromCity": "Подгорица",
+        "isAvailable": true,
+        "views": 66028
+    },
+    {
+        "name": "elegant blueberry",
+        "price": 63.78,
+        "quantity": 533,
+        "category": "fruit",
+        "fromCity": "Скопье",
+        "isAvailable": false,
+        "views": 23870
+    },
+    {
+        "name": "marvelous baseboard",
+        "price": 99.55,
+        "quantity": 696,
+        "category": "tools",
+        "fromCity": "Эль-Пуэрто-де-Санта-Мария",
+        "isAvailable": true,
+        "views": 25881
+    },
+    {
+        "name": "Razer Variau",
+        "price": 67901,
+        "quantity": 72,
+        "fromCity": "Куэнка",
+        "isAvailable": true,
+        "views": 85597
+    },
+    {
+        "name": "exquisite shovel",
+        "price": 72.48,
+        "quantity": 732,
+        "category": "tools",
+        "fromCity": "Тбилиси",
+        "isAvailable": true,
+        "views": 31078
+    },
+    {
+        "name": "magnificent moustache wax",
+        "price": 62.66,
+        "quantity": 742,
+        "category": "cosmetics",
+        "fromCity": "Душанбе",
+        "isAvailable": false,
+        "views": 93255
+    },
+    {
+        "name": "glamorous blueberry",
+        "price": 34.88,
+        "quantity": 684,
+        "category": "fruit",
+        "fromCity": "Тирана",
+        "isAvailable": false,
+        "views": 21980
+    },
+    {
+        "name": "exquisite sunscreen",
+        "price": 23.35,
+        "quantity": 523,
+        "category": "cosmetics",
+        "fromCity": "Белград",
+        "isAvailable": true,
+        "views": 59420
+    },
+    {
+        "name": "trendy strawberry",
+        "price": 15.96,
+        "quantity": 555,
+        "category": "fruit",
+        "fromCity": "Ташкент",
+        "isAvailable": false,
+        "views": 91029
+    },
+    {
+        "name": "marvelous grapes",
+        "price": 89.78,
+        "quantity": 795,
+        "category": "fruit",
+        "fromCity": "Афины",
+        "isAvailable": true,
+        "views": 2207
+    },
+    {
+        "name": "pleasant pedicure set",
+        "price": 42.6,
+        "quantity": 647,
+        "category": "cosmetics",
+        "fromCity": "Пласенсия",
+        "isAvailable": false,
+        "views": 51801
+    },
+    {
+        "name": "attractive baby shampoo",
+        "price": 18.09,
+        "quantity": 543,
+        "category": "cosmetics",
+        "fromCity": "Ла-Корунья",
+        "isAvailable": false,
+        "views": 22796
+    },
+    {
+        "name": "Intel Core i5",
+        "price": 32136,
+        "quantity": 73,
+        "fromCity": "Артейхо",
+        "isAvailable": true,
+        "views": 5700
+    },
+    {
+        "name": "exquisite drywall",
+        "price": 27.98,
+        "quantity": 595,
+        "category": "tools",
+        "fromCity": "Таллин",
+        "isAvailable": true,
+        "views": 46601
+    },
+    {
+        "name": "amazing trim",
+        "price": 95.18,
+        "quantity": 740,
+        "category": "tools",
+        "fromCity": "Сеговия",
+        "isAvailable": true,
+        "views": 94046
+    },
+    {
+        "name": "superb eye cream",
+        "price": 52.93,
+        "quantity": 783,
+        "category": "cosmetics",
+        "fromCity": "Астана",
+        "isAvailable": true,
+        "views": 43498
+    },
+    {
+        "name": "nice cherry",
+        "price": 39.34,
+        "quantity": 856,
+        "category": "fruit",
+        "fromCity": "Семана",
+        "isAvailable": false,
+        "views": 30107
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "price": 69066,
+        "quantity": 49,
+        "fromCity": "Осера",
+        "isAvailable": true,
+        "views": 33765
+    },
+    {
+        "name": "sublime doors",
+        "price": 93.48,
+        "quantity": 616,
+        "category": "tools",
+        "fromCity": "Севилья",
+        "isAvailable": true,
+        "views": 75341
+    },
+    {
+        "name": "nice cranberry",
+        "price": 14.31,
+        "quantity": 887,
+        "category": "fruit",
+        "fromCity": "Бишкек",
+        "isAvailable": true,
+        "views": 77633
+    },
+    {
+        "name": "gorgeous wheelbarrow",
+        "price": 52.24,
+        "quantity": 928,
+        "category": "tools",
+        "fromCity": "Бланес",
+        "isAvailable": false,
+        "views": 44109
+    },
+    {
+        "name": "gorgeous orange",
+        "price": 11.73,
+        "quantity": 900,
+        "category": "fruit",
+        "fromCity": "Хихон",
+        "isAvailable": true,
+        "views": 54617
+    },
+    {
+        "name": "superb boysenberry",
+        "price": 88.98,
+        "quantity": 551,
+        "category": "fruit",
+        "fromCity": "Мерида",
+        "isAvailable": false,
+        "views": 51731
+    },
+    {
+        "name": "Epson Expression Home XP",
+        "price": 85322,
+        "quantity": 30,
+        "fromCity": "Малага",
+        "isAvailable": false,
+        "views": 64668
+    },
+    {
+        "name": "stylish toothpaste",
+        "price": 98.0,
+        "quantity": 569,
+        "category": "cosmetics",
+        "fromCity": "Сантьяго-де-Компостела",
+        "isAvailable": true,
+        "views": 91228
+    },
+    {
+        "name": "delightful level",
+        "price": 47.13,
+        "quantity": 904,
+        "category": "tools",
+        "fromCity": "Сантьяго-де-Компостела",
+        "isAvailable": true,
+        "views": 5242
+    },
+    {
+        "name": "glamorous wheelbarrow",
+        "price": 91.3,
+        "quantity": 777,
+        "category": "tools",
+        "fromCity": "Сантьяго-де-Компостела",
+        "isAvailable": true,
+        "views": 39786
+    },
+    {
+        "name": "sublime roofing",
+        "price": 32.24,
+        "quantity": 948,
+        "category": "tools",
+        "fromCity": "Сан-Себастьян",
+        "isAvailable": true,
+        "views": 54152
+    },
+    {
+        "name": "delightful siding",
+        "price": 60.35,
+        "quantity": 765,
+        "category": "tools",
+        "fromCity": "Авилес",
+        "isAvailable": true,
+        "views": 39135
+    },
+    {
+        "name": "amazing roofing",
+        "price": 28.24,
+        "quantity": 899,
+        "category": "tools",
+        "fromCity": "Алма-Ата",
+        "isAvailable": false,
+        "views": 25217
+    },
+    {
+        "name": "amazing apricot",
+        "price": 26.92,
+        "quantity": 508,
+        "category": "fruit",
+        "fromCity": "Сьюдад-Реаль",
+        "isAvailable": true,
+        "views": 95681
+    },
+    {
+        "name": "glamorous face wash",
+        "price": 94.69,
+        "quantity": 881,
+        "category": "cosmetics",
+        "fromCity": "Санхенхо",
+        "isAvailable": false,
+        "views": 71703
+    },
+    {
+        "name": "gorgeous makeup remover",
+        "price": 75.94,
+        "quantity": 837,
+        "category": "cosmetics",
+        "fromCity": "Сараево",
+        "isAvailable": true,
+        "views": 75542
+    },
+    {
+        "name": "HyperX DDR4 RAM",
+        "price": 63755,
+        "quantity": 47,
+        "fromCity": "Осера",
+        "isAvailable": true,
+        "views": 20351
+    },
+    {
+        "name": "Samsung 970 EVO SSD",
+        "price": 55898,
+        "quantity": 20,
+        "fromCity": "Мурсия",
+        "isAvailable": false,
+        "views": 81143
+    },
+    {
+        "name": "refined electrical",
+        "price": 91.65,
+        "quantity": 546,
+        "category": "tools",
+        "fromCity": "Бланес",
+        "isAvailable": true,
+        "views": 67754
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "price": 44937,
+        "quantity": 51,
+        "fromCity": "Тирана",
+        "isAvailable": true,
+        "views": 17299
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "price": 75024,
+        "quantity": 47,
+        "fromCity": "Гранада",
+        "isAvailable": false,
+        "views": 61075
+    },
+    {
+        "name": "tasteful siding",
+        "price": 37.88,
+        "quantity": 686,
+        "category": "tools",
+        "fromCity": "Вильявисиоса",
+        "isAvailable": false,
+        "views": 99978
+    },
+    {
+        "name": "refined manicure set",
+        "price": 86.28,
+        "quantity": 834,
+        "category": "cosmetics",
+        "fromCity": "Хихон",
+        "isAvailable": true,
+        "views": 32688
+    },
+    {
+        "name": "Brother DCP-T510W",
+        "price": 36266,
+        "quantity": 73,
+        "fromCity": "Баку",
+        "isAvailable": true,
+        "views": 15870
+    },
+    {
+        "name": "gorgeous windows",
+        "price": 20.07,
+        "quantity": 574,
+        "category": "tools",
+        "fromCity": "Будапешт",
+        "isAvailable": false,
+        "views": 34843
+    },
+    {
+        "name": "nice doors",
+        "price": 20.98,
+        "quantity": 656,
+        "category": "tools",
+        "fromCity": "Ла-Корунья",
+        "isAvailable": true,
+        "views": 62089
+    },
+    {
+        "name": "refined axe",
+        "price": 39.61,
+        "quantity": 859,
+        "category": "tools",
+        "fromCity": "Москва",
+        "isAvailable": true,
+        "views": 7998
+    },
+    {
+        "name": "nice cherry",
+        "price": 78.1,
+        "quantity": 593,
+        "category": "fruit",
+        "fromCity": "Загреб",
+        "isAvailable": false,
+        "views": 91590
+    },
+    {
+        "name": "stylish pedicure set",
+        "price": 94.93,
+        "quantity": 743,
+        "category": "cosmetics",
+        "fromCity": "Сьюдад-Реаль",
+        "isAvailable": false,
+        "views": 33142
+    },
+    {
+        "name": "magnificent chisel",
+        "price": 97.32,
+        "quantity": 704,
+        "category": "tools",
+        "fromCity": "Сан-Себастьян",
+        "isAvailable": true,
+        "views": 19431
+    },
+    {
+        "name": "refined plumbing",
+        "price": 91.85,
+        "quantity": 486,
+        "category": "tools",
+        "fromCity": "Артейхо",
+        "isAvailable": false,
+        "views": 81305
+    },
+    {
+        "name": "pleasant sunscreen",
+        "price": 59.34,
+        "quantity": 953,
+        "category": "cosmetics",
+        "fromCity": "Краков",
+        "isAvailable": false,
+        "views": 3718
+    },
+    {
+        "name": "AMD Ryzen 5",
+        "price": 97791,
+        "quantity": 52,
+        "fromCity": "Скопье",
+        "isAvailable": true,
+        "views": 7225
+    },
+    {
+        "name": "sublime guava",
+        "price": 36.11,
+        "quantity": 897,
+        "category": "fruit",
+        "fromCity": "Касерес",
+        "isAvailable": true,
+        "views": 52592
+    },
+    {
+        "name": "attractive apple",
+        "price": 43.7,
+        "quantity": 865,
+        "category": "fruit",
+        "fromCity": "Льейда",
+        "isAvailable": true,
+        "views": 47238
+    },
+    {
+        "name": "stylish trim",
+        "price": 12.58,
+        "quantity": 570,
+        "category": "tools",
+        "fromCity": "Загреб",
+        "isAvailable": false,
+        "views": 91999
+    },
+    {
+        "name": "sublime flooring",
+        "price": 96.91,
+        "quantity": 568,
+        "category": "tools",
+        "fromCity": "Осера",
+        "isAvailable": true,
+        "views": 31970
+    },
+    {
+        "name": "trendy banana",
+        "price": 52.74,
+        "quantity": 682,
+        "category": "fruit",
+        "fromCity": "Пласенсия",
+        "isAvailable": true,
+        "views": 14447
+    },
+    {
+        "name": "beautiful deodorant",
+        "price": 93.6,
+        "quantity": 908,
+        "category": "cosmetics",
+        "fromCity": "Любляна",
+        "isAvailable": false,
+        "views": 80532
+    },
+    {
+        "name": "pleasant face wash",
+        "price": 53.27,
+        "quantity": 921,
+        "category": "cosmetics",
+        "fromCity": "Аликанте",
+        "isAvailable": false,
+        "views": 4932
+    },
+    {
+        "name": "delightful scaffolding",
+        "price": 63.91,
+        "quantity": 725,
+        "category": "tools",
+        "fromCity": "Ла-Корунья",
+        "isAvailable": false,
+        "views": 39189
+    },
+    {
+        "name": "pretty serum",
+        "price": 38.18,
+        "quantity": 606,
+        "category": "cosmetics",
+        "fromCity": "Куэнка",
+        "isAvailable": false,
+        "views": 85318
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "price": 14612,
+        "quantity": 48,
+        "fromCity": "Куэнка",
+        "isAvailable": true,
+        "views": 77513
+    },
+    {
+        "name": "Canon PIXMA",
+        "price": 86554,
+        "quantity": 66,
+        "fromCity": "Аликанте",
+        "isAvailable": true,
+        "views": 25111
+    },
+    {
+        "name": "elegant shampoo",
+        "price": 36.41,
+        "quantity": 862,
+        "category": "cosmetics",
+        "fromCity": "Ла-Корунья",
+        "isAvailable": true,
+        "views": 96392
+    },
+    {
+        "name": "superb trim",
+        "price": 25.39,
+        "quantity": 704,
+        "category": "tools",
+        "fromCity": "Самора",
+        "isAvailable": true,
+        "views": 12102
+    },
+    {
+        "name": "trendy level",
+        "price": 21.99,
+        "quantity": 1035,
+        "category": "tools",
+        "fromCity": "Лас-Росас",
+        "isAvailable": true,
+        "views": 14832
+    },
+    {
+        "name": "beautiful banana",
+        "price": 35.12,
+        "quantity": 708,
+        "category": "fruit",
+        "fromCity": "Сьюдад-Реаль",
+        "isAvailable": true,
+        "views": 43053
+    },
+    {
+        "name": "attractive banana",
+        "price": 11.9,
+        "quantity": 761,
+        "category": "fruit",
+        "fromCity": "Тудела",
+        "isAvailable": true,
+        "views": 51556
+    },
+    {
+        "name": "NVIDIA GeForce GTX 1050",
+        "price": 92162,
+        "quantity": 60,
+        "fromCity": "Касерес",
+        "isAvailable": true,
+        "views": 95510
+    },
+    {
+        "name": "beautiful shampoo",
+        "price": 42.81,
+        "quantity": 735,
+        "category": "cosmetics",
+        "fromCity": "Алма-Ата",
+        "isAvailable": false,
+        "views": 14577
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 340417,
+        "name": "Пандус 87",
+        "street": "Юбилейная улица 11",
+        "city": "Авилес",
+        "zipcode": 485440,
+        "floors": 10,
+        "year": 1691,
+        "parking": 1,
+        "prob_price": 223845240,
+        "views": 65431
+    },
+    {
+        "id": 998057,
+        "name": "Мост 45",
+        "street": "Парковая улица 73",
+        "city": "Алма-Ата",
+        "zipcode": 468101,
+        "floors": 10,
+        "year": 1752,
+        "parking": 0,
+        "prob_price": 416200296,
+        "views": 5707
+    },
+    {
+        "id": 974083,
+        "name": "Фазенда 100",
+        "street": "Московская улица 95",
+        "city": "Астана",
+        "zipcode": 780191,
+        "floors": 3,
+        "year": 1977,
+        "parking": 0,
+        "prob_price": 937522557,
+        "views": 81792
+    },
+    {
+        "id": 777661,
+        "name": "Бомбоубежище 1",
+        "street": "Школьная улица 32",
+        "city": "Астана",
+        "zipcode": 614028,
+        "floors": 3,
+        "year": 1665,
+        "parking": 1,
+        "prob_price": 332151191,
+        "views": 50428
+    },
+    {
+        "id": 958267,
+        "name": "Берлога 96",
+        "street": "Речная улица 58",
+        "city": "Афины",
+        "zipcode": 234183,
+        "floors": 1,
+        "year": 1750,
+        "parking": 1,
+        "prob_price": 110049430,
+        "views": 72380
+    },
+    {
+        "id": 574662,
+        "name": "Мануфактура 34",
+        "street": "Варшавская улица 52",
+        "city": "Афины",
+        "zipcode": 779225,
+        "floors": 2,
+        "year": 1942,
+        "parking": 1,
+        "prob_price": 944078683,
+        "views": 72295
+    },
+    {
+        "id": 309944,
+        "name": "Кубло 100",
+        "street": "Школьная улица 39",
+        "city": "Баку",
+        "zipcode": 278679,
+        "floors": 10,
+        "year": 1948,
+        "parking": 1,
+        "prob_price": 535813949,
+        "views": 58780
+    },
+    {
+        "id": 709192,
+        "name": "Ресторан 98",
+        "street": "Осенняя улица 71",
+        "city": "Белград",
+        "zipcode": 979005,
+        "floors": 6,
+        "year": 1812,
+        "parking": 0,
+        "prob_price": 620591197,
+        "views": 39808
+    },
+    {
+        "id": 842541,
+        "name": "Школа 13",
+        "street": "Летняя улица 55",
+        "city": "Бильбао",
+        "zipcode": 161375,
+        "floors": 4,
+        "year": 1719,
+        "parking": 1,
+        "prob_price": 364813788,
+        "views": 71221
+    },
+    {
+        "id": 733221,
+        "name": "Больница 49",
+        "street": "Морская улица 27",
+        "city": "Бишкек",
+        "zipcode": 847674,
+        "floors": 2,
+        "year": 1826,
+        "parking": 0,
+        "prob_price": 633948899,
+        "views": 34465
+    }
+]
